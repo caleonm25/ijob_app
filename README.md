@@ -4,7 +4,7 @@ Es un proyecto beta sobre un sistema de informacion de gestion de ofertas de emp
 Desarrollado con lenguaje de programacion denominado Flutter con conexion a la base de datos en Firebase.
 
 Inicio de la aplicacion (Inicio de Sesion)
-[login ijob](https://user-images.githubusercontent.com/99428923/189552952-0f16dd61-8ae0-49aa-aa87-ceea2f262834.PNG)
+https://user-images.githubusercontent.com/99428923/189552952-0f16dd61-8ae0-49aa-aa87-ceea2f262834.PNG
 
 ## Getting Started!
 

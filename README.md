@@ -5,15 +5,23 @@ Desarrollado con lenguaje de programacion denominado Flutter con conexion a la b
 
 Inicio de la aplicacion (Inicio de Sesion)
 
-- [login ijob](https://user-images.githubusercontent.com/99428923/189553132-0cb220e2-95d0-4fa2-9690-edc0bdb1ecfb.PNG)
+![login ijob](https://user-images.githubusercontent.com/99428923/189553132-0cb220e2-95d0-4fa2-9690-edc0bdb1ecfb.PNG)
 
 Inicio de la aplicacion.
 
-- [inicio job](https://user-images.githubusercontent.com/99428923/190285033-c143fa8e-e5b9-4b8b-bc5d-1606abab6c55.PNG)
+![inicio job](https://user-images.githubusercontent.com/99428923/190285033-c143fa8e-e5b9-4b8b-bc5d-1606abab6c55.PNG)
 
 Detalles oferta
 
 ![details job](https://user-images.githubusercontent.com/99428923/190285084-01ce9c97-38c9-45f9-a103-00a3ed1e1313.PNG)
+
+Crear nuevo empleo
+
+![create new job](https://user-images.githubusercontent.com/99428923/190285266-8a6cea4b-6f77-461d-bfbb-7c03e6041fa3.PNG)
+
+Perfil
+
+![info account](https://user-images.githubusercontent.com/99428923/190285341-c9a6d960-41c3-4249-b570-54a20f37b779.PNG)
 
 
 ## Getting Started!

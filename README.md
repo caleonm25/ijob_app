@@ -7,6 +7,14 @@ Inicio de la aplicacion (Inicio de Sesion)
 
 - [login ijob](https://user-images.githubusercontent.com/99428923/189553132-0cb220e2-95d0-4fa2-9690-edc0bdb1ecfb.PNG)
 
+Inicio de la aplicacion.
+
+- [inicio job](https://user-images.githubusercontent.com/99428923/190285033-c143fa8e-e5b9-4b8b-bc5d-1606abab6c55.PNG)
+
+Detalles oferta
+
+![details job](https://user-images.githubusercontent.com/99428923/190285084-01ce9c97-38c9-45f9-a103-00a3ed1e1313.PNG)
+
 
 ## Getting Started!
 
